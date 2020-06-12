@@ -1,0 +1,12 @@
+mongoimport -d flask -c fields --jsonArray ./data/Fields.json
+mongoimport -d flask -c news --jsonArray ./data/News.json
+mongoimport -d flask -c Data_Mining --jsonArray ./data/Data_Mining_detail.json
+mongoimport -d flask -c Web_Services --jsonArray ./data/Web_Services_detail.json
+mongoimport -d flask -c Semantic_Web --jsonArray ./data/Semantic_Web_detail.json
+mongoimport -d flask -c Bayesian_Networks --jsonArray ./data/Bayesian_Networks_detail.json
+mongoimport -d flask -c Web_Mining --jsonArray ./data/Web_Mining_detail.json
+mongoimport -d flask -c Machine_Learning --jsonArray ./data/Machine_Learning_detail.json
+mongoimport -d flask -c Database_Systems --jsonArray ./data/Database_Systems_detail.json
+mongoimport -d flask -c Information_Retrieval --jsonArray ./data/Information_Retrieval_detail.json
+mongoimport -d flask -c Person_Detail --jsonArray ./data/Person_Detail.json
+mongoimport -d flask -c Count --file ./data/Count.json

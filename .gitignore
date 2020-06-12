@@ -1,0 +1,7 @@
+.idea
+/__pycache__
+nohup.out
+flask.log
+backend/data/person_html/
+backend/data/person_paper_trend/
+backend/data/person_community_graph/

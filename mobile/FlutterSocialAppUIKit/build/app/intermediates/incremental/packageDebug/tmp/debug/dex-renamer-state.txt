@@ -1,0 +1,4 @@
+#Tue Apr 28 20:23:56 KST 2020
+base.0=/Users/jinwooseong/Desktop/School/3-2/SOA/project/storms/mobile/FlutterSocialAppUIKit/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
