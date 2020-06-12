@@ -18,23 +18,23 @@
 
   * 用户可以直观地感受到不同领域的热度对比
 
-    <img src="G:/Study_Study/CS_4th/soa/storms/docs/pics/field.png" style="zoom: 90%;" />
+    <img src="./pics/field.png" style="zoom: 90%;" />
 
   * 借助图谱快速了解领域的知名学者、不同学者之间的影响力比较
 
-    <img src="G:/Study_Study/CS_4th/soa/storms/docs/pics/field_detail.png" style="zoom: 100%;" />
+    <img src="./pics/field_detail.png" style="zoom: 100%;" />
 
   * 查看某⼀学者所在的学术群体（如：导师、学生、合作紧密的其他学者）
 
-    <img src="G:/Study_Study/CS_4th/soa/storms/docs/pics/person_detail.png" style="zoom: 100%;" />
+    <img src="./pics/person_detail.png" style="zoom: 100%;" />
 
   * 借助`Aminer`外部链接了解学者更详细信息
 
-    <img src="G:/Study_Study/CS_4th/soa/storms/docs/pics/aminer.png" style="zoom: 33%;" />
+    <img src="./pics/aminer.png" style="zoom: 33%;" />
 
   * 关注学术新闻动态
 
-    <img src="G:/Study_Study/CS_4th/soa/storms/docs/pics/feeds.png" style="zoom: 27%;" />
+    <img src="./pics/feeds.png" style="zoom: 27%;" />
 
   * 其他功能
 
