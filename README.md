@@ -2,7 +2,9 @@
 ## 前言
 
 本项目源于2020年清华大学计算机系春季唐杰老师的SOA课程，网址：http://nodefocus.tech/
+
 分别开启前端（npm run serve）和后端（python app.py 3389）即可运行服务
+
 如感兴趣或任何问题欢迎交流
 
 ## **NodeFocus**项目总结
